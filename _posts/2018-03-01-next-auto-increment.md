@@ -1,6 +1,6 @@
 ---
 title: Next AUTO_INCREMENT value
-categories: [DevOps]
+categories: [Databases]
 tags: [AUTO_INCREMENT, MySQL]
 ---
 
