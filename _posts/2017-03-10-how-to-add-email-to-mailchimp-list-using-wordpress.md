@@ -10,7 +10,7 @@ tags: [MailChimp]
 $apiKey = 'your API key';
 $dc     = 'MailChimp data center, for example, "us6"';
 $listId = 'your list id';
-$email  = 'your@mail.here';
+$email  = 'some@email.here';
 
 $url = "https://{$dc}.api.mailchimp.com/2.0/lists/subscribe.json";
 
