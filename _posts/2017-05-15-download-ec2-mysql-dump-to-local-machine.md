@@ -1,6 +1,6 @@
 ---
 title: Create MySQL dump on EC2 instance and download it
-categories: [DevOps]
+categories: [DevOps, Databases]
 tags: [SSH, MySQL, EC2, scp, Amazon, mysqldump, macOS, terminal]
 ---
 
