@@ -6,7 +6,7 @@ tags: [checkbox, setCustomValidity]
 
 There is a form with multiple checkboxes and we're going to make sure that at least one is checked using pure JavaScript. To set a custom validation error message, we will use `setCustomValidity()` method.
 
-Here's how the error message will look when trying to send a form without selecting a checkbox:
+Here's how the error message will look in the Google Chrome browser when trying to send a form without selecting a checkbox:
 
 ![Select at least one item form](/assets/images/js-select-at-least-one-item.png)
 
