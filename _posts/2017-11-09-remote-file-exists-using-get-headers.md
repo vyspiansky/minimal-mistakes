@@ -4,7 +4,7 @@ categories: [PHP]
 tags: [get_headers, allow_url_fopen]
 ---
 
-As you probably know, a `get_headers` function typically returns something similar to:
+As you probably know, a `get_headers` function in PHP typically returns something similar to:
 
 ```
 Array
