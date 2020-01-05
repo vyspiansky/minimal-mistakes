@@ -1,7 +1,7 @@
 ---
 title: Next AUTO_INCREMENT value
-categories: [Databases]
-tags: [AUTO_INCREMENT, MySQL]
+categories: [MySQL]
+tags: [AUTO_INCREMENT]
 ---
 
 To get the next `AUTO_INCREMENT` value from a table run the following query:
