@@ -19,7 +19,7 @@ If you’re going to be transferring files between Mac's and PC's use exFAT. The
 
 If it’s your case, read this
 
-* [https://support-en.wd.com/app/answers/detail/a_id/20821](https://support-en.wd.com/app/answers/detail/a_id/20821 "How to Format a WD hard drive to exFAT or FAT32 File System").
+* <a href="https://support-en.wd.com/app/answers/detail/a_id/20821" title="How to Format a WD hard drive to exFAT or FAT32 File System" target="_blank">https://support-en.wd.com/app/answers/detail/a_id/20821</a>
 
 However you will lose all the data, and in case you forget to backup first, it will be gone forever.
 
@@ -29,7 +29,7 @@ The macOS includes experimental support for writing to NTFS drives. However, it
 
 If you want to take the risk and try them out, read the following tutorial
 
-* [http://osxdaily.com/2013/10/02/enable-ntfs-write-support-mac-os-x/](http://osxdaily.com/2013/10/02/enable-ntfs-write-support-mac-os-x/ "How to Enable NTFS Write Support in Mac OS X").
+* <a href="http://osxdaily.com/2013/10/02/enable-ntfs-write-support-mac-os-x/" title="How to Enable NTFS Write Support in Mac OS X" target="_blank">http://osxdaily.com/2013/10/02/enable-ntfs-write-support-mac-os-x/</a>
 
 This solution could potentially cause problems with your NTFS file system, so use it with caution.
 
