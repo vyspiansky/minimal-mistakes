@@ -17,7 +17,7 @@ There are several ways to work around this problem.
 
 If you’re going to be transferring files between Mac's and PC's use exFAT. The macOS Mojave supports exFAT file format and since Windows does too, converting an NTFS drive to exFAT may solve the problem of accessing the files it contains on both platforms.
 
-If it’s your case please read this
+If it’s your case, read this
 
 * [https://support-en.wd.com/app/answers/detail/a_id/20821](https://support-en.wd.com/app/answers/detail/a_id/20821 "How to Format a WD hard drive to exFAT or FAT32 File System").
 
